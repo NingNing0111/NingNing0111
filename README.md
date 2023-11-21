@@ -1,5 +1,4 @@
 - 一位软件工程专业双非在读大学生，热爱技术，使用语言：Java、Vue
 - 博客地址:[https://pgthinker.me](https://pgthinker.me)
-- 目标中、大厂
-- 2023年中国西部ACM-ICPC铜牌
+- 目标中、大厂、自学成才
 - Goal：全栈工程师
