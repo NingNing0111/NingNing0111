@@ -2,3 +2,4 @@
 - 博客地址:[https://pgthinker.me](https://pgthinker.me)
 - 目标中、大厂、自学成才
 - Goal：全栈工程师
+- Java | Vue | TS | Go 
