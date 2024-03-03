@@ -1,13 +1,19 @@
 
-<h2 align="center">👋 Hey! I'm NingNing0111😁, welcome to my Github homepage.🏠</h1> 
+<h2 align="center">👋 Hey! I'm NingNing0111.</h1> 
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ningning0111&show_icons=true&theme=radical" />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ningning0111&show_icons=true&theme=radical" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ningning0111&layout=compact&langs_count=8" />
 </a>
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-ningning0111-lightgrey?style=flat-square&logo=github)](https://www.github.com/ningning0111/)
+[![Gmail Badge](https://img.shields.io/badge/-zdncode@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zdncode@gmail.com)](zdncode@gmail.com)
 
 ---
 
