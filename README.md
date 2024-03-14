@@ -16,7 +16,7 @@
 <img src="https://duolingo-stats-card.vercel.app/api?id=1267129697" alt="Duolingo Stats"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ningning0111-lightgrey?style=flat-square&logo=github)](https://www.github.com/ningning0111/)
-[![Gmail Badge](https://img.shields.io/badge/-zdncode@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zdncode@gmail.com)](zdncode@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-zdncode@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zdncode@gmail.com)](mailto:zdncode@gmail.com)
 
 ---
 
