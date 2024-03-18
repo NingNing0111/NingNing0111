@@ -1,5 +1,4 @@
-
-<h2 align="center">👋 Hey! I'm NingNing0111.</h1> 
+<h2 align="center">👋 Hey! I'm NingNing0111.</h1>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
@@ -12,12 +11,12 @@
 
 ---
 
+<img  src="https://duolingo-stats-card.vercel.app/api?id=1267129697" alt="Duolingo Stats"/>
 
-<img src="https://duolingo-stats-card.vercel.app/api?id=1267129697" alt="Duolingo Stats"/>
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/ningning7?theme=dark&font=Frank%20Ruhl%20Libre&ext=activity&site=cn)
+<img src="https://leetcard.jacoblin.cool/ningning7?theme=dark&font=Frank%20Ruhl%20Libre&ext=activity&site=cn"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ningning0111-lightgrey?style=flat-square&logo=github)](https://www.github.com/ningning0111/)
+
 [![Gmail Badge](https://img.shields.io/badge/-zdncode@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zdncode@gmail.com)](mailto:zdncode@gmail.com)
 
 ---
