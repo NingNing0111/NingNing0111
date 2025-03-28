@@ -10,7 +10,12 @@
 </p>
 
 ---
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/ningning7?theme=dark&font=Frank%20Ruhl%20Libre&ext=activity&site=cn"/>
+</div>
 
+
+---
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ningning0111&show_icons=true&theme=radical" />
@@ -18,11 +23,6 @@
   </a>
 </div>
 
----
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/ningning7?theme=dark&font=Frank%20Ruhl%20Libre&ext=activity&site=cn"/>
-</div>
 
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-ningning0111-lightgrey?style=flat-square&logo=github)](https://www.github.com/ningning0111/)
