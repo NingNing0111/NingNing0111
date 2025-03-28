@@ -21,7 +21,6 @@
 ---
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://duolingo-stats-card.vercel.app/api?id=1267129697" alt="Duolingo Stats"/>
   <img src="https://leetcard.jacoblin.cool/ningning7?theme=dark&font=Frank%20Ruhl%20Libre&ext=activity&site=cn"/>
 </div>
 
