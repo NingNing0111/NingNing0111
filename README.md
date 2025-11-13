@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">👋 Hey! I'm NingNing0111</h2>
+<h2 align="center">👋 Hey! I'm PGThinker</h2>
 
 <p align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
