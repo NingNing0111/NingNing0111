@@ -5,7 +5,7 @@
 
 ---
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://pgthinker.me">
     <img src="https://readme.pgthinker.me/?username=ningning0111&show_icons=true&theme=radical" />
     <img src="https://readme.pgthinker.me/top-langs/?username=ningning0111&layout=compact&langs_count=8" />
   </a>
